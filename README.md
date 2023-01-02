@@ -1,6 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](http://batuhanaslanturk.online)
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>- 🔭 I’m currently working on **Restaurant Automation**
+<img align="right" alt="Coding" width="400" src ="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif">
+- 🔭 I’m currently working on **Restaurant Automation**
 
 - 🌱 I’m currently writing **.NET Core**
 
@@ -21,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=batuhanaslanturk&show_icons=true&locale=en" alt="batuhanaslanturk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanaslanturk&" alt="batuhanaslanturk" /></p>
-
-
-
